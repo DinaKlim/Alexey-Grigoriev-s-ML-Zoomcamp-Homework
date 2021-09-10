@@ -3,6 +3,7 @@
 # Tasks: 
 ## Answer questions
 ## Do homework
+Week 1: https://github.com/DinaKlim/Alexey-Grigoriev-s-ML-Zoomcamp-Homework/blob/main/week1%20homework.py
 ## Complete the course project
 ## Write an Article
 ### Predicting of magma chemistry/lithology/alteration styles from assays
