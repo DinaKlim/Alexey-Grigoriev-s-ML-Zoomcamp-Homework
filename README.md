@@ -3,7 +3,13 @@
 # Tasks: 
 ## Answer questions
 ## Do homework
-Week 1: https://github.com/DinaKlim/Alexey-Grigoriev-s-ML-Zoomcamp-Homework/blob/main/week1%20homework.py
+Week 1: [Homework](https://github.com/DinaKlim/Alexey-Grigoriev-s-ML-Zoomcamp-Homework/blob/main/week1%20homework.py)
+
+Week 2: Regression, RMSE, r parameter
+
+[Code-along notes](https://github.com/DinaKlim/Alexey-Grigoriev-s-ML-Zoomcamp-Homework/blob/main/week%202.py)
+
+[Homework](https://github.com/DinaKlim/Alexey-Grigoriev-s-ML-Zoomcamp-Homework/blob/main/week2_homework.py)
 ## Complete the course project
 ## Write an Article
 ### Predicting of magma chemistry/lithology/alteration styles from assays
