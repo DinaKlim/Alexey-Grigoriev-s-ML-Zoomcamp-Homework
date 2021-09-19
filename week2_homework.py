@@ -43,7 +43,7 @@ missing_values = df.isnull().sum() # in the console:
 # result: reviews_per_month has 10052 missing values
 
 # Q2 Median for "minimum nights"
-median_price = pd.DataFrame.median(df.price)
+median_min_nights = pd.DataFrame.median(df.minimum_nights)
 # result: 106
 
 # Shuffle the initial dataset, use seed 42.
@@ -158,7 +158,7 @@ for r in [0, 0.000001, 0.0001, 0.001, 0.01, 0.1, 1, 5, 10]:
     w0, w = train_linear_regression_reg(X_train, y_train, r = r)
     X_val = prepare_X(df_val)
     y_pred = w0 + X_val.dot(w)
-    score = round(rmse(y_val, y_pred),2)
+    score = rmse(y_val, y_pred)
     print (r, w0, score)
     
 # Q5 We used seed 42 for splitting the data. Let's find out how selecting the seed influences our score.
