@@ -35,8 +35,8 @@ and here is the polynomial regression, 4th order, performing ok on the validatio
 
 # Basic plots for interpreting mafic and ultramafic rocks: work in progress
 These plots reproduce the beginning of Scott Halley's tutorial; here I am just getting started.
-<img src=https://github.com/DinaKlim/Alexey-Grigoriev-s-ML-Zoomcamp-Homework/blob/main/Midterm%20project/chemistry1.png>
-<img src=https://github.com/DinaKlim/Alexey-Grigoriev-s-ML-Zoomcamp-Homework/blob/main/Midterm%20project/chemistry2.png>
+<img src=https://github.com/DinaKlim/Alexey-Grigoriev-s-ML-Zoomcamp-Homework/blob/main/Midterm%20project/chemistry1_corrected.png>
+<img src=https://github.com/DinaKlim/Alexey-Grigoriev-s-ML-Zoomcamp-Homework/blob/main/Midterm%20project/chemistry2_corrected.png>
 Basic chemistry plots based on Morgan Williams' pyrolite library
 
 <img src=https://github.com/DinaKlim/Alexey-Grigoriev-s-ML-Zoomcamp-Homework/blob/main/Midterm%20project/Jensen%20plot%20attempt.png>
